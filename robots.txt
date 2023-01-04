@@ -1,0 +1,5 @@
+Sitemap: http://rememberme.uk.com/sitemap.xml
+
+User-agent: *
+Disallow: /assets/
+Crawl-Delay: 30
